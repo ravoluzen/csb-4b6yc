@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,qBAAsB,CACtB,iBACF,CACA,GACE,wBACF","file":"main.b01c6053.chunk.css","sourcesContent":[".App {\n  font-family: \"Poppins\";\n  text-align: center;\n}\nli {\n  background-color: #9bbdf9;\n}\n"]}
